@@ -1,0 +1,4 @@
+main: com.dennisbonke.dbcore.DBCore
+name: DBCore
+author: Dennisbonke
+version: 0.0.1
